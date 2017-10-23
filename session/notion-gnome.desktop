@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=notion-gnome
+NoDisplay=true
+Comment=tiling window manager
+Exec=notion-gnome
+X-GNOME-WMName=notion-gnome
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
