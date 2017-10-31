@@ -1,12 +1,12 @@
 # -*- mode: conf -*-
 
 [Desktop Entry]
-Name=GNOME + notion
+Name=notion/gnome
 Comment=This session logs you into GNOME with notion as the window manager
 Exec=gnome-session --session=notion-gnome
 TryExec=notion-gnome
 Icon=
 Type=Application
-DesktopNames=Unity
+DesktopNames=GNOME
 X-Ubuntu-Gettext-Domain=gnome-session-3.0
 Type=XSession
